@@ -1,0 +1,10 @@
+langchain
+langchain-groq #some free credits
+faiss-cpu  #vector database 
+tiktoken
+langchain-community
+langchain-openai
+chromadb #VD
+sentence-transformers   #text to vector
+pypdf
+python-dotenv

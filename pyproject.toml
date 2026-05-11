@@ -1,0 +1,19 @@
+[project]
+name = "krishnaikragudemy"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "chromadb>=1.5.9",
+    "faiss-cpu>=1.13.2",
+    "ipykernel>=7.2.0",
+    "langchain>=1.2.18",
+    "langchain-community>=0.4.1",
+    "langchain-groq>=1.1.2",
+    "langchain-openai>=1.2.1",
+    "pypdf>=6.11.0",
+    "python-dotenv>=1.2.2",
+    "sentence-transformers>=5.4.1",
+    "tiktoken>=0.12.0",
+]
