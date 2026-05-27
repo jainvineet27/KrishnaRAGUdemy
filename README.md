@@ -1,2 +1,5 @@
-Hi we will be learning RAG architecture using langchain 
-debuggin tool lang smith 
+pip install uv 
+
+uv venv rag
+source rag/Scripts/activate
+uv add -r requirements.txt
