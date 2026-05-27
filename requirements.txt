@@ -8,3 +8,4 @@ chromadb #VD
 sentence-transformers   #text to vector
 pypdf
 python-dotenv
+ipykernel

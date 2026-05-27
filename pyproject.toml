@@ -1,12 +1,13 @@
 [project]
 name = "krishnaragudemy"
 version = "0.1.0"
-description = "Add your description here"
+description = "Learning RAG in details"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
     "chromadb>=1.5.9",
     "faiss-cpu>=1.14.2",
+    "ipykernel>=7.2.0",
     "langchain>=1.3.2",
     "langchain-community>=0.4.2",
     "langchain-groq>=1.1.2",
