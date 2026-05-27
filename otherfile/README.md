@@ -67,3 +67,13 @@ Ye numbers sentence ke meaning ko represent karte hain.  |
 | **Chunk ≠ sentence** | Chunk = multiple sentences |
 | **Chunking needed** | Better meaning, better retrieval |
 | **384 chosen** | Speed + accuracy ka perfect balance |
+
+
+
+👉 Dot = Damage  
+list.sort() / list.reverse()  
+→ list ko damage (modify) kar dete hain
+
+👉 No Dot = No Damage  
+sorted(list) / reversed(list)  
+→ list ko safe rakhte hain
