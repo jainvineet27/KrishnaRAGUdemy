@@ -9,3 +9,5 @@ sentence-transformers   #text to vector
 pypdf
 python-dotenv
 ipykernel
+pymupdf
+langchain_huggingface
