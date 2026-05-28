@@ -11,3 +11,10 @@ python-dotenv
 ipykernel
 pymupdf
 langchain_huggingface
+pandas
+numpy
+unstructured
+docx2txt
+python-docx
+openpyxl
+xlsxwriter
