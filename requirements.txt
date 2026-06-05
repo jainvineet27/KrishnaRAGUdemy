@@ -25,3 +25,4 @@ xlsxwriter
 #JSON Parsing k liye 
 jq
 pydantic
+autogenstudio
