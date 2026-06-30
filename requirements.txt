@@ -8,3 +8,23 @@ chromadb #VD
 sentence-transformers   #text to vector
 pypdf
 python-dotenv
+ipykernel
+pymupdf
+langchain_huggingface
+# Pandas multip purpose
+pandas
+numpy
+# UNstructured Word , Excel read krne k liye 
+unstructured
+#Word and Excel read krne k liye
+docx2txt
+python-docx
+openpyxl
+xlsxwriter
+
+#JSON Parsing k liye 
+jq
+pydantic
+autogenstudio
+requests
+json
